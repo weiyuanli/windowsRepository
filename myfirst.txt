@@ -1,0 +1,4 @@
+Django
+
+django-admin startproject projectname
+python manang.py startapp app
